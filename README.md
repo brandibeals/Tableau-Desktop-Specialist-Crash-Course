@@ -1,2 +1,3 @@
 # Tableau-Desktop-Specialist-Crash-Course
-Review Key Concepts and Best Practices Needed to Pass the Exam
+Review key concepts and best practices needed to pass the exam
+Download Excel and csv files used in the course demo by clicking Code > Download ZIP
